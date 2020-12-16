@@ -1,0 +1,16 @@
+{
+  "products": [
+    { "id": 1, "name": "Chair", "availability":[{"isInStock":true}],"price":200 },
+    { "id": 2, "name": "Desk", "availability":[{"isInStock":true}],"price":400 },
+    { "id": 3, "name": "Lamp", "availability":[{"isInStock":false}],"price":100 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+

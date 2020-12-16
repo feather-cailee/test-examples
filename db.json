@@ -1,8 +1,8 @@
 {
   "products": [
-    { "id": 1, "name": "Chair", "availability":[{"isInStock":true}],"price":200 },
-    { "id": 2, "name": "Desk", "availability":[{"isInStock":true}],"price":400 },
-    { "id": 3, "name": "Lamp", "availability":[{"isInStock":false}],"price":100 }
+    { "id": 1, "name": "Chair", "isInStock":true, "price":200 },
+    { "id": 2, "name": "Desk", "isInStock":true, "price":400 },
+    { "id": 3, "name": "Lamp", "isInStock":false, "price":100 }
   ]
 }
 
